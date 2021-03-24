@@ -4,10 +4,8 @@ In this page students can see latest news posted by administration of uni, comme
 I used HTML, CSS, JS, PHP and Mysql database for this project.
 
 
-1)![Alt Text](https://imgur.com/QyLoBtA.jpg) Here is the list of latest news
-.
-.
-.
+1)Here is the list of latest news ![Alt Text](https://imgur.com/QyLoBtA.jpg)
+
 
 3)![Alt Text](https://imgur.com/PU1IDfj.jpg) Here you can see a post and comment it
 4)![Alt Text](https://imgur.com/03VE1BI.jpg) Here you see your uploaded comment 
