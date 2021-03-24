@@ -5,10 +5,8 @@ I used HTML, CSS, JS, PHP and Mysql database for this project.
 
 
 1)Here is the list of latest news ![Alt Text](https://imgur.com/QyLoBtA.jpg)
-
-
-3)![Alt Text](https://imgur.com/PU1IDfj.jpg) Here you can see a post and comment it
-4)![Alt Text](https://imgur.com/03VE1BI.jpg) Here you see your uploaded comment 
-5)![Alt Text](https://imgur.com/bl3WsWl.jpg) Here we can see related posts, tagged with the same tag
-6)![Alt Text](https://imgur.com/R8MEFa2.jpg) Here we can see different icons of social media, you choose the one you want, and share the post
-7)![Alt Text](https://imgur.com/Xw7JCC9.jpg) Here is mysql database with all tables
+2)Here you can see a post and comment it ![Alt Text](https://imgur.com/PU1IDfj.jpg)
+3)Here you see your uploaded comment ![Alt Text](https://imgur.com/03VE1BI.jpg) 
+4)Here we can see related posts, tagged with the same tag ![Alt Text](https://imgur.com/bl3WsWl.jpg) 
+5)Here we can see different icons of social media, you choose the one you want, and share the post ![Alt Text](https://imgur.com/R8MEFa2.jpg) 
+6)Here is mysql database with all tables ![Alt Text](https://imgur.com/Xw7JCC9.jpg) 
