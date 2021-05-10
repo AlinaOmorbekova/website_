@@ -1,4 +1,4 @@
-# website_
+# website_blog
 My project is called University Blog.
 In this page students can see latest news posted by administration of uni, comment the post, and share it via different social media like Facebook, Twitter, Gmail, etc.
 I used HTML, CSS, JS, PHP and Mysql database for this project.
